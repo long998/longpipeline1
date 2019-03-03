@@ -1,7 +1,3 @@
-package com.dineshonjava;
-
-
-
 import junit.framework.Test;
 
 import junit.framework.TestCase;
